@@ -71,4 +71,3 @@ sequelize
   .catch((err) => {
     console.log(err);
   });
-//syncs= it syncs your model to the database by creating the appropriate tables
